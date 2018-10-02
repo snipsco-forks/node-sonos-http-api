@@ -7,6 +7,19 @@ If you are also looking for cloud control (ifttt, public webhooks etc), see the 
 SONOS HTTP API
 ==============
 
+USAGE FOR SNIPS
+---------------
+
+Installation : `npm install` 
+Running tests : `npm test`
+
+
+You can set the log level by setting the environment variable `export NODE_LOG_LEVEL="DEBUG"`. 
+You can choose from : `TRACE`, `DEBUG`, `INFO`. 
+
+
+
+
 ** Beta is no more, master is up to date with the beta now! **
 
 **This application requires node 4.0.0 or higher!**
